@@ -1,0 +1,13 @@
+#Number Series Mass File Renamer
+
+Number Series Mass File Renamer is a very basic program that simply renames all files in a specified folder in such a way that they form a simple integer series that can be sorted alphabetically. For instance, a folder containing three files, namely a.jpg, b.jpg and c.jpg would become 1.jpg, 2.jpg and 3.jpg respectively. The series starting numeric can be specified. Note that the folder search is not recursive in nature but instead just a simple single level approach.
+
+Created by Craig Lotter, October 2005
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2003
+Implements concepts such as file manipulation.
+Level of Complexity: simple
